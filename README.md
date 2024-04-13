@@ -1,2 +1,2 @@
 # multimodal-seizure-detection
-CSCI 1470 Final Project
+Spring 2024 Final Project for Brown University's Deep Learning Class
